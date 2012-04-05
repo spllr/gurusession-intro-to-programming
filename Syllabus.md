@@ -68,4 +68,5 @@
 
 #Links
 * [Foundations of Programming, Lynda.com](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
-* 
+* [LearnScratch.org](http://learnscratch.org)
+
