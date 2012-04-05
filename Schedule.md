@@ -4,6 +4,6 @@
 * Around the room
 	* Name
 	* Type of work you do
-	* What is programming
+	* Can you answer the question: What is programming?
 
-#
+## Talk: What is Programming?

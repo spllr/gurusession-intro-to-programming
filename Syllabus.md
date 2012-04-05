@@ -20,6 +20,10 @@
 * Design Patterns
 * Application Architecture
 
+
+		All Talks/Lectures will be short, 15 minutes or less. The goal is to provide enough insight to practice the next set of examples.
+
+
 ## Questions
 
 ### How do we do something with code?
@@ -61,3 +65,7 @@
 * What is a class?
 
 
+
+#Links
+* [Foundations of Programming, Lynda.com](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
+* 
