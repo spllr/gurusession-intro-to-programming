@@ -3,23 +3,31 @@
 ### Guided Exercises
 
 ####Scratch
-1. Start with scratch. Describe a few exercises with some obvious, open ended variations/possibilities.
-2. Using scratch, descibe how each statement works.
-3. Using scratch, describe how changing a single line (block) changes how the functionality changes (ripple effects)
-4. Using scratch, describe how grouping statements makes using that group easier
+
+Goal: Learning statements, loops, and basic flow control
+
+1. Move cat across screen. Experiment with patterns and shapes
+2. Change the color of the cat every few steps
+3. Add a sound after so many steps
+4. Make the cat keep doing these steps 10 times, always, until clicked, only start when clicked
+5. 
+
+Goal: Build Nyan Cat Animation
 
 ####Ruby
 
-######Numbers
+#####Statements
+
+#####Numbers
 
 1. puts "Something"
 2. puts "Something" + " else"
 
-######Strings
+#####Strings
 
-######Mixing Numbers and Strings
+#####Mixing Numbers and Strings
 
-######Objects
+#####Objects
 
 
 ### Lab/Self Guided Exercises

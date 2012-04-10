@@ -7,6 +7,7 @@
 		* The goal of asking this question is to understand each person's background. This also helps other students realize there is a large diversity of experience from which everyone can learn.
 	* Can you answer the question: What is programming?
 
+##Saturday
 Time | Activity | Topic
 ----------|----------
 10.00 |Talk | What is Programming/Computing? Introduce some terminology?
@@ -34,3 +35,6 @@ Time | Activity | Topic
 16.30 | Ruby | Open a file on disk, load contents to memory, convert contents, write to a file
 16.45 | Closing Remarks | What did we learn? Where to go from here: Algorithms, classes and code organization
 17.00 | Complete | Pizza and Beers!
+
+#Sunday
+Eating with presentation tying it all together
